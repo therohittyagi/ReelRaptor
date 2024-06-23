@@ -10,6 +10,7 @@
 - Login / Sign Up
     - Sign In / Sign Up Form
     - Redirect to Browse Page
+    - Log In Form
 
 - Browse (After Authentication)
     - Header
@@ -19,6 +20,6 @@
         - Movie Suggestion
             - Movie List * N (Vertically  Scrollable)
 
-- NetflixGPT
+- ReelRaptorGPT
     - Search Bar
     - Movie Suggestions

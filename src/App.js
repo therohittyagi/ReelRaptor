@@ -1,11 +1,7 @@
-import "./App.css";
+import Body from "./components/Body";
 
 function App() {
-  return (
-    <div className="text-3xl font-bold underline text-rose-500">
-      Namaste Everyone, Let's build Reel Raptor
-    </div>
-  );
+  return <Body />;
 }
 
 export default App;
